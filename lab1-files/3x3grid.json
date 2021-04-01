@@ -1,0 +1,40 @@
+[
+    {
+      "url": "img/hero1.jpg",
+      "caption": "SPIDERMAN"
+    },
+    {
+      "url": "img/hero2.jpg",
+      "caption": "IRONMAN"
+    },
+    {
+      "url": "img/hero3.jpg",
+      "caption": "BLACK PANTHER"
+    },
+
+    {
+      "url": "img/hero5.jpg",
+      "caption": "CAPTAIN AMERICA"
+    },
+    {
+      "url": "img/hero6.jpg",
+      "caption": "HULK"
+    },
+    {
+     "url": "img/villan1.jpg",
+     "caption": "HELA"
+    },
+    {
+      "url": "img/villan2.jpg",
+     "caption": "THANOS"
+    },
+    {
+     "url": "img/villan4.jpg",
+     "caption": "ROHAN"
+    },
+    {
+     "url": "img/villan5.jpg",
+     "caption": "ULTRON"
+    }
+  
+  ]
